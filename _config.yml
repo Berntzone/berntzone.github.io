@@ -2,16 +2,13 @@
 title: berntzone
 author: Arvid Berntsson
 email: arvid@bernt.zone
-description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks
-  feature. This theme provides a set of page-level components and a pre-configured
-  Forestry Blocks UI that will empower content editors to construct their own webpages.
+description: Arvid is an Industrial Design Engineering student doing his masters.
+  Say hello!
 baseurl: "/berntzone.github.io"
 url: ''
 defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
+- scope: ''
+  values: ''
 plugins:
 - jekyll-feed
 - jekyll-menus
