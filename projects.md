@@ -16,6 +16,12 @@ page_sections:
   cta:
     url: https://www.linkedin.com/in/arvid-berntsson/
     button_text: Say hello
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/02/08/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg"
+  caption: This is a person designing an app. It will soon be swapped out for a real
+    image.
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
