@@ -3,25 +3,24 @@ layout: blocks
 title: Projects
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2021/02/08/berntzone_logo_v2-2.svg"
-  navigation:
-  - link: "/projects"
-    link_text: Projects
-  - link: "/cv"
-    link_text: CV
-  - link: "/contact"
-    link_text: Contact
-  cta:
-    url: https://www.linkedin.com/in/arvid-berntsson/
-    button_text: Say hello
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/02/08/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg"
   caption: This is a person designing an app. It will soon be swapped out for a real
     image.
   slug: ''
+- template: hero-banner-w-image
+  block: hero-2
+  headline: "<strong>This is a hero.<br></strong>Let's hope it works."
+  background_image: "/uploads/2021/02/08/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg"
+  content: hooga booga, this is some random text soon to be replaced.
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
