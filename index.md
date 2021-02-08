@@ -58,6 +58,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Sweden
+  content: Made with ❤︎ in Sweden.<br>A big thanks to <strong>uBlocks</strong>, <strong>Forestry
+    </strong>and <strong>GitHub pages</strong>.
 
 ---
