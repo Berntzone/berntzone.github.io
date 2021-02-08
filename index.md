@@ -5,21 +5,17 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/02/08/berntzone_logo_v1.svg"
+  logo: "/uploads/2021/02/08/berntzone_logo_v2.svg"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "/projects"
+    link_text: Projects
+  - link: "/cv"
+    link_text: CV
+  - link: "/contact"
+    link_text: Contact
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://www.linkedin.com/in/arvid-berntsson/
+    button_text: Say hello
 - template: hero-banner-w-image
   block: hero-2
   slug: features
