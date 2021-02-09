@@ -3,8 +3,8 @@ layout: blocks
 title: Projects
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   navigation:
   - link: "/projects"
     link_text: Projects
@@ -13,9 +13,6 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   logo: "/uploads/2021/02/09/berntzone_logo_v2.svg"
-  cta:
-    url: https://www.linkedin.com/in/arvid-berntsson/
-    button_text: Say hello
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>This is a hero.<br></strong>Let's hope it works."
