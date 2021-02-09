@@ -19,7 +19,7 @@ page_sections:
   background_image: ''
   content: hooga booga, this is some random text soon to be replaced.
   image:
-    image: ''
+    image: "/uploads/2021/02/09/hero_box_v1.png"
     alt_text: ''
   cta:
     enabled: false
