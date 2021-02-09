@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>This is a hero.<br></strong>Let's hope it works."
-  background_image: "/uploads/2021/02/08/kelly-sikkema-v9fqr4tbiq8-unsplash.jpg"
+  background_image: ''
   content: hooga booga, this is some random text soon to be replaced.
   image:
     image: ''
