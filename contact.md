@@ -18,7 +18,7 @@ page_sections:
     button_text: Say hello
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>This is a hero.<br></strong>Let's hope it works."
+  headline: "<strong>Contact page will go here.<br></strong>Wish me luck."
   background_image: ''
   content: hooga booga, this is some random text soon to be replaced.
   image:
