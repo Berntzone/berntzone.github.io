@@ -19,8 +19,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: This site is<br><strong>under construction</strong>
-  content: I am currently working on this site<br>Hopefully it'll be finished soon(-ish)
+  headline: This site is currently<br><strong>under construction</strong>
+  content: I am currently working on this site and need some more time before I'm
+    ready to show off the finished product. Hopefully it'll be soon(-ish) rather than
+    later.
   cta:
     enabled: true
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
