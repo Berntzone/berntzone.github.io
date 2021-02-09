@@ -40,6 +40,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: hooga boogah, this is a footer!
-published: false
 
 ---

@@ -32,8 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- "./contact.md"
-- "./cv-1.md"
-- "./cv.md"
 - index.md
 - projects.md
