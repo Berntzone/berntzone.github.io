@@ -3,9 +3,8 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2021/02/08/berntzone_logo_v2.svg"
+- template: navigation-header
+  block: header-1
   navigation:
   - link: "/projects"
     link_text: Projects
@@ -13,9 +12,7 @@ page_sections:
     link_text: CV
   - link: "/contact"
     link_text: Contact
-  cta:
-    url: https://www.linkedin.com/in/arvid-berntsson/
-    button_text: Say hello
+  logo: "/uploads/2021/02/09/berntzone_logo_v2.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
